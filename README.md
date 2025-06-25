@@ -2,7 +2,7 @@
 
 **Desarrolladores:**
 
-[Escribe los nombres de los integrantes de tu equipo.]: # 
+[Escribe los nombres de los integrantes de tu equipo.]: # 1
 Fernando Aguilar Vèlez
 
 [AÃ±ade una imagen de tu juego.]: #
@@ -18,6 +18,8 @@ Fernando Aguilar Vèlez
 
 ## 1. PropÃ³sito de tu juego
 
+Salir del infierno mientras te enfrentas a demonios y tienes que encarar a Satanas para salir del infierno y regresar a la Tierra.
+
 ### 1.1 Resumen del juego
 
 [Un martillo fue enviado al mismo infierno ya que fue inculpado por robo. Ahora tendra que enfrentarse a demonios mientras recorre los rincones del infierno y busca una forma de salir de ahi ademas de encarar al mismo Satanàs para demostrar que no tienes miedo]: # 
@@ -32,7 +34,7 @@ Fernando Aguilar Vèlez
 
 ## 2. Jugabilidad
 
-[Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
+[Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # Se juega en PC. Con el mecanismo en 2d con movimientos en los teclados W (salto), A (izquiera), S (agachar), D(Derecha). Y con el espacio o space, se puede atacar. es un juego inspirado en Castlevania solo que ahora ambientado en el infierno.
 
 ## 3. Mundo del juego
 
