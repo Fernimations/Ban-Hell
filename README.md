@@ -84,12 +84,11 @@ Oleadas de enemigos masivos en espacios reducidos.
 Satanás es una entidad cambiante: comienza como una bestia gigante, luego se transforma en una sombra gigantesca que domina el campo entero.
 
 
-Este juego de supervivencia a vidas es un camino a la redención donde un martillo deberá evitar ser corrompido por las fuerzas infernales ya que este martillo, forjado con poder celestial y esencia divina, ahora se encuentra atrapado en el reino de las tinieblas, donde los demonios ansían destruirlo o corromperlo para utilizar su poder contra los cielos. 
-]: # 
+Este juego de supervivencia a vidas es un camino a la redención donde un martillo deberá evitar ser corrompido por las fuerzas infernales ya que este martillo, forjado con poder celestial y esencia divina, ahora se encuentra atrapado en el reino de las tinieblas, donde los demonios ansían destruirlo o corromperlo para utilizar su poder contra los cielos.]: # 
 
 ## 4. MecÃ¡nicas del Juego
 
-[al atacar. Mandará una onda que cause daño a los demonios deshaciendolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse.]: # 
+[Al atacar. Mandará una onda que cause daño a los demonios deshaciendolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse]: # 
 
 ## 5. Personajes
 
