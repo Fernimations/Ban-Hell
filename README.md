@@ -2,27 +2,25 @@
 
 **Desarrolladores:**
 
-[Escribe los nombres de los integrantes de tu equipo.]: # 1
-Fernando Aguilar Vèlez
+[Fernando Aguilar Vèlez]: # 
 
-[AÃ±ade una imagen de tu juego.]: #
+
+[Añade una imagen de tu juego.]: #
 
 <img src="imagen.jpg" width="80%" height="Auto">
 
-## Tabla de evaluaciÃ³n del equipo.
+## Tabla de evaluación del equipo.
 
-| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
+| Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
 | Header | Title | - | - |
 | Paragraph | Text |  - | - |
 
-## 1. PropÃ³sito de tu juego
-
-Salir del infierno mientras te enfrentas a demonios y tienes que encarar a Satanas para salir del infierno y regresar a la Tierra.
+## 1. Propósito de tu juego
 
 ### 1.1 Resumen del juego
 
-[Un martillo fue enviado al mismo infierno ya que fue inculpado por robo. Ahora tendra que enfrentarse a demonios mientras recorre los rincones del infierno y busca una forma de salir de ahi ademas de encarar al mismo Satanàs para demostrar que no tienes miedo]: # 
+[Un martillo fue enviado al mismo infierno ya que fue inculpado por robo. Ahora tendra que enfrentarse a demonios mientras recorre los rincones del infierno y busca una forma de salir de ahí además de encarar al mismo Satanás para demostrar que no tienes miedo]: # 
 
 ### 1.2 Resumen de la historia del juego
 
@@ -32,14 +30,14 @@ Salir del infierno mientras te enfrentas a demonios y tienes que encarar a Satan
 
 [1: Un martillo es enviado al infierno accidentalmente
 2: Hay demonios que quieren corromperlo
-3: El martillo tendrá que enfrentar a distintos demonios de todo tipo para sobrevivír
+3: El martillo tendrá que enfrentar a distintos demonios de todo tipo para sobrevivir
 4: Hay 3 jefes finales al que enfrentar. Samael, Lucifer y Satanás 
 5: La única salida es enfrentar a los 3 jefes finales
-6: Si vence a Satanás, podrá regresar a la Tierra de los Vivos.]: # 
+6: Si vence a Satanás, podrá regresar a la Tierra de los Vivos]: # 
 
 ## 2. Jugabilidad
 
-[Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # Se juega en PC. Con el mecanismo en 2d con movimientos en los teclados W (salto), A (izquiera), S (agachar), D(Derecha). Y con el espacio o space, se puede atacar. es un juego inspirado en Castlevania solo que ahora ambientado en el infierno.
+[Se juega en PC. Con el mecanismo en 2d con movimientos en los teclados W (salto), A (izquierda), S (agachar), D(Derecha). Y con el espacio o space, se puede atacar. es un juego inspirado en Castlevania solo que ahora ambientado en el infierno.]: # 
 
 ## 3. Mundo del juego
 
@@ -86,18 +84,18 @@ Satanás es una entidad cambiante: comienza como una bestia gigante, luego se tr
 
 Este juego de supervivencia a vidas es un camino a la redención donde un martillo deberá evitar ser corrompido por las fuerzas infernales ya que este martillo, forjado con poder celestial y esencia divina, ahora se encuentra atrapado en el reino de las tinieblas, donde los demonios ansían destruirlo o corromperlo para utilizar su poder contra los cielos.]: # 
 
-## 4. MecÃ¡nicas del Juego
+## 4. Mecánicas del Juego
 
-[Al atacar. Mandará una onda que cause daño a los demonios deshaciendolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse]: # 
+[Al atacar. Mandará una onda que cause daño a los demonios deshaciéndolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse.]: # 
 
 ## 5. Personajes
 
-[Es importante que incluyan al menos dos personajes principales completamente diseÃ±ados.]: # 
+[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # 
 
 ## 6. Plan del proyecto
 
 [El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
 
-## 7. BibliografÃ­a
+## 7. Bibliografía
 
-[Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # 
+[NintendoComplete. (2022, October 1). Castlevania (NES) Playthrough [Video]. YouTube. https://www.youtube.com/watch?v=gev1_Qwjze0]: # 
