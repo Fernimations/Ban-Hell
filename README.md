@@ -40,7 +40,7 @@
 
 ## 4. Mecánicas del Juego
 
-[Incluye ejemplos claros o diagramas.]: # 
+[Al atacar. Mandará una onda que cause daño a los demonios deshaciéndolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse.]: # Al atacar. Mandará una onda que cause daño a los demonios deshaciéndolos por completo. Es un juego tipo plataforma el cual habrá distintas trampas y enemigos al que enfrentarse.
 
 ## 5. Personajes
 
