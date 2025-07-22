@@ -1,8 +1,8 @@
-# Nombre de tu juego
+# Ban Hell
 
 **Desarrolladores:**
 
-[Escribe los nombres de los integrantes de tu equipo.]: # 
+[Escribe los nombres de los integrantes de tu equipo.]: # Fernando Aguilar Vèlez
 
 
 [Añade una imagen de tu juego.]: #
@@ -20,11 +20,11 @@
 
 ### 1.1 Resumen del juego
 
-[Escribe un resumen de mínimo 150 palabras.]: # 
+[Escribe un resumen de mínimo 150 palabras.]: # Un martillo fue enviado al mismo infierno ya que fue inculpado por robo. Ahora tendra que enfrentarse a demonios mientras recorre los rincones del infierno y busca una forma de salir de ahí además de encarar al mismo Satanás para demostrar que no tienes miedo
 
 ### 1.2 Resumen de la historia del juego
 
-[Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
+[Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # Un martillo con ojos y boca como un tipo de robot fue enviado accidentalmente al infierno donde tendrá que pasar por 3 distintos puntos de este mismo y enfrentar a los 3 mayores exponentes del Infierno.
 
 ### 1.3 Resumen de la historia del juego.
 
@@ -37,7 +37,7 @@
 
 ## 2. Jugabilidad
 
-[Escribe un resumen de mínimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
+[Escribe un resumen de mínimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # Se juega en PC. Con el mecanismo en 2d con movimientos en los teclados W (salto), A (izquierda), S (agachar), D(Derecha). Y con el espacio o space, se puede atacar. es un juego inspirado en Castlevania solo que ahora ambientado en el infierno
 
 ## 3. Mundo del juego
 
@@ -98,4 +98,4 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 
 ## 7. Bibliografía
 
-[Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # 
+[Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # NintendoComplete. (2022, October 1). Castlevania (NES) Playthrough [Video]. YouTube. https://www.youtube.com/watch?v=gev1_Qwjze0
