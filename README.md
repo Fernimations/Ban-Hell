@@ -90,7 +90,9 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 
 ## 5. Personajes
 
-[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # Ban Hammer: El Protagonista de esta historia. Un martillo robot con ojos blancos brillantes y boca blanca. Capaz de hacer desaparecer cuando aplasta. 
+[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # Ban Hammer: El Protagonista de esta historia. Un martillo robot con ojos blancos brillantes y boca blanca. Capaz de hacer desaparecer cuando aplasta. Queda atrapado en el infierno por error. Y tendrá que enfrentarse a demonios para salir de ahí. 
+
+Satanás: El amo del infierno. Rey de los males y los pecados. Es prácticamente invisible. Sin embargo tiene sus puntos debiles: Su corona y cabeza. En el juego. Tanto el como los jefes finales salen como cabezas volando atacando con habilidades especiales. Como lo son en el caso de Satanás Lanza llamas. Tackle e invocación demoníaca. Este último invoca enemigos durante el enfrentamiento. 
 
 ## 6. Plan del proyecto
 
@@ -98,8 +100,8 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 gantt
     | Tarea | Status | Fecha de inicio | Fecha de fin
 | ----------- | ----------- | ----------- | ----------- |
-| Repositorio | TERMINADO | - | - |
-| Sprites | TERMINADO |  - | - |
+| Repositorio | TERMINADO | 13 de junio de 2025 | 13 de junio de 2025 |
+| Sprites | TERMINADO |  23 de junio de 2025| 30 de junio de 2025 |
 | codigos | TERMINADO |  1 de julio de 2025 | 4 de julio de 2025 |
 | pantalla de inicio y cinematografía final| EN PROGRESO |  29 de julio de 2025 | 5 de Agosto de 2025 |
 
