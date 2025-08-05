@@ -95,6 +95,18 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 ## 6. Plan del proyecto
 
 [El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Ban Hell Ejemplo
+
+    section Tarea 1
+    A          :a1, 2024-01-01, 30d
+    section Tarea 2
+    B          :after a1, 20d
+    section Tarea 3
+    C          :after b1, 15d
+    section Hitos
+    Hito 1     :2024-02-15, 1d
 
 ## 7. Bibliografía
 
