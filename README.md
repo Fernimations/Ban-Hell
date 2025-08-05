@@ -96,17 +96,12 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 
 [El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
 gantt
-    dateFormat  YYYY-MM-DD
-    title       Ban Hell Ejemplo
-
-    section Tarea 1
-    A          :a1, 2024-01-01, 30d
-    section Tarea 2
-    B          :after a1, 20d
-    section Tarea 3
-    C          :after b1, 15d
-    section Hitos
-    Hito 1     :2024-02-15, 1d
+    | Tarea | Status | Fecha de inicio | Fecha de fin
+| ----------- | ----------- | ----------- | ----------- |
+| Repositorio | TERMINADO | - | - |
+| Sprites | TERMINADO |  - | - |
+| codigos | TERMINADO |  1 de julio de 2025 | 4 de julio de 2025 |
+| pantalla de inicio y cinematografía final| EN PROGRESO |  29 de julio de 2025 | 5 de Agosto de 2025 |
 
 ## 7. Bibliografía
 
