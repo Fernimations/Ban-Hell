@@ -90,7 +90,7 @@ Este juego de supervivencia a vidas es un camino a la redención donde un martil
 
 ## 5. Personajes
 
-[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # 
+[Es importante que incluyan al menos dos personajes principales completamente diseñados.]: # Ban Hammer: El Protagonista de esta historia. Un martillo robot con ojos blancos brillantes y boca blanca. Capaz de hacer desaparecer cuando aplasta. 
 
 ## 6. Plan del proyecto
 
