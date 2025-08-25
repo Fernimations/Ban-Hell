@@ -103,7 +103,7 @@ gantt
 | Repositorio | TERMINADO | 13 de junio de 2025 | 13 de junio de 2025 |
 | Sprites | TERMINADO |  23 de junio de 2025| 30 de junio de 2025 |
 | codigos | TERMINADO |  1 de julio de 2025 | 4 de julio de 2025 |
-| pantalla de inicio y cinematografía final| EN PROGRESO |  29 de julio de 2025 | 5 de Agosto de 2025 |
+| pantalla de inicio y cinematografía final| TERMINADO |  29 de julio de 2025 | 5 de Agosto de 2025 |
 
 ## 7. Bibliografía
 
